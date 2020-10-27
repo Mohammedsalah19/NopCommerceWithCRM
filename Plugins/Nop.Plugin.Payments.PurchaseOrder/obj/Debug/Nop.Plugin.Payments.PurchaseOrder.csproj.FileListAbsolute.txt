@@ -1,0 +1,12 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Views\PaymentInfo.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PurchaseOrder\Nop.Plugin.Payments.PurchaseOrder.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PurchaseOrder\obj\Debug\Nop.Plugin.Payments.PurchaseOrder.pdb

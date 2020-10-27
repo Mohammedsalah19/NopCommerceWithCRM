@@ -1,0 +1,13 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csprojAssemblyReference.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\Nop.Plugin.Payments.Manual.pdb

@@ -1,0 +1,11 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\Nop.Plugin.Widgets.GoogleAnalytics.pdb

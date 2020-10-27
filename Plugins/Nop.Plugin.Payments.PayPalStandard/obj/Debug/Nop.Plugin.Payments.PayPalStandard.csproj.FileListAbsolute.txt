@@ -1,0 +1,12 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\Nop.Plugin.Payments.PayPalStandard.pdb

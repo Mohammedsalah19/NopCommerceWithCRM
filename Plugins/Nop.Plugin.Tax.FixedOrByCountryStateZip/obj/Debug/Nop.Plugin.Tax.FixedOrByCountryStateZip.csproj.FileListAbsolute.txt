@@ -1,0 +1,14 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_CountryStateZip.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\_FixedRate.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Tax.FixedOrByCountryStateZip\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csprojAssemblyReference.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Tax.FixedOrByCountryStateZip\obj\Debug\Nop.Plugin.Tax.FixedOrByCountryStateZip.pdb

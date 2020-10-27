@@ -1,0 +1,9 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csprojAssemblyReference.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\Nop.Plugin.ExchangeRate.EcbExchange.pdb

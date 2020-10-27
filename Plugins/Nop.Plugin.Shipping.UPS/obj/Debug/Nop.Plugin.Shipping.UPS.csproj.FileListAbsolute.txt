@@ -1,0 +1,12 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Shipping.UPS\Nop.Plugin.Shipping.UPS.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csproj.App.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csprojAssemblyReference.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Shipping.UPS\obj\Debug\Nop.Plugin.Shipping.UPS.pdb

@@ -1,0 +1,13 @@
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\web.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Description.txt
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll.config
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csprojAssemblyReference.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.CoreCompileInputs.cache
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.csproj.CopyComplete
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.dll
+D:\WROK\UNDER WORK\CRM Projects\NopWithCRM365\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\Nop.Plugin.Payments.PayPalDirect.pdb
