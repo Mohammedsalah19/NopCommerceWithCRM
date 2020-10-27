@@ -4,7 +4,10 @@ using System.Linq;
 using System.ServiceModel.Security;
 using System.ServiceModel.Syndication;
 using System.Web.Mvc;
+using System.Web.UI.WebControls.Expressions;
 using Microsoft.Xrm.Sdk;
+using Microsoft.Xrm.Sdk.Client;
+using Microsoft.Xrm.Sdk.Query;
 using Nop.Core;
 using Nop.Core.Caching;
 using Nop.Core.Domain.Catalog;
@@ -127,8 +130,27 @@ namespace Nop.Web.Controllers
                 if (service != null)
                 {
                     Entity task = new Entity("task");
-
                     Entity Lead = new Entity("lead");
+
+                    Microsoft.Xrm.Sdk.Query.QueryExpression queryexpression = new Microsoft.Xrm.Sdk.Query.QueryExpression();
+
+                    queryexpression.EntityName = "contact";
+                    string[] ColumnSetArr = new string[] {"id"};
+                    queryexpression.ColumnSet = new ColumnSet(true);
+                    queryexpression.Criteria.AddCondition(new ConditionExpression("emailaddress1", ConditionOperator.Equal, "themsm1922011@yahoo.com"));
+
+                    EntityCollection encollcection = service.RetrieveMultiple(queryexpression);
+
+                    if (encollcection.Entities.Count>0)
+                    {
+                        Entity item = encollcection.Entities[0];
+                        Guid contactId = (Guid)item.Attributes["contactid"];
+
+                        task["regardingobjectid"] = new EntityReference("contact", contactId);
+
+                    }
+
+
                     task["subject"] = "New User Interest";
                     task["description"] = $"{user.GetFullName()} is interested in our Product: {product.Name} (Please contact him)";
                     service.Create(task);
